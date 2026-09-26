@@ -37,3 +37,17 @@
 - ubuntu_ros_version.png：版本截图
 - turtle_demo.mp4：小海龟控制录屏
 - GitHub 用户名：18870833685
+
+
+
+# YES Lab 第二阶段：Fusion 360 花瓶模型
+
+作者 GitHub：18870833685
+
+## 视角截图
+![top](top.png)
+![middle](Isometric.png)
+![bottom](bottom.png)
+
+软件：Autodesk Fusion 360  
+方法：Sketch + Revolve
